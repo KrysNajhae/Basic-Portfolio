@@ -30,3 +30,7 @@ ul{
     float: left;
     width: 20%;
   }
+ .wrapper{
+    background-color: floralwhite;
+    width: 20px;
+}
